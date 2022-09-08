@@ -1,0 +1,7 @@
+[submodule "kutengfsblog/themes/toha"]
+	path = kutengfsblog/themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "kutengfsblog/public"]
+	path = kutengfsblog/public
+	url = git@github.com:KutengF/kutengf.github.io.git
+	branch = main
